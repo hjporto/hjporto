@@ -9,4 +9,7 @@
   <img align="center" alt="Hugo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Hugo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   </div>
+  <div>
+    ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=hjporto&layout=compact)
+  </div>
   
